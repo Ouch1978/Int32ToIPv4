@@ -6,7 +6,11 @@ using System.Threading.Tasks;
 
 namespace Int32ToIPv4
 {
-    public class Class1
+    public class Kata
     {
+        public static string UInt32ToIP(uint ip)
+        {
+            return string.Empty;
+        }
     }
 }
