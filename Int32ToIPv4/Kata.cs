@@ -10,7 +10,9 @@ namespace Int32ToIPv4
     {
         public static string UInt32ToIP(uint ip)
         {
-            return string.Empty;
+            string ipString = string.Empty;
+
+            return ipString;
         }
     }
 }
